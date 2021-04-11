@@ -2,7 +2,7 @@ name: Update data.json
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # TODO update this to twice a day or so
+    - cron: '*/5 * * * *'
 
 jobs:
   update:
