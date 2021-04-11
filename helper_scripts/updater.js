@@ -17,6 +17,7 @@ request.get('https://covid.ourworldindata.org/data/owid-covid-data.csv', functio
             if (new Date(curr.date) > new Date(latestFound)) {
                 return curr.date;
             }
+            return latestFound;
         }, 0);
 
         console.log({ lastUpdate });

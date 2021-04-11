@@ -26,7 +26,7 @@ jobs:
       - name: Install deps
         run: npm install
 
-      - name: Install deps
+      - name: Update data.json
         run: npm run update
 
       - name: Update data.json on GitHub
