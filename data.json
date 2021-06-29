@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2021-06-14",
-      "vaccinationRate": 71.876724687302,
-      "vaccinatedPersons": 92905,
-      "administeredVaccineDoses": 6213515
+      "vaccinationRate": 72.01715782984755,
+      "vaccinatedPersons": 92962,
+      "administeredVaccineDoses": 6225655
     },
     {
       "statusDate": "2021-06-15",
-      "vaccinationRate": 73.01913789088623,
-      "vaccinatedPersons": 98758,
-      "administeredVaccineDoses": 6312273
+      "vaccinationRate": 73.1606352714148,
+      "vaccinatedPersons": 98850,
+      "administeredVaccineDoses": 6324505
     },
     {
       "statusDate": "2021-06-16",
-      "vaccinationRate": 74.34424142562544,
-      "vaccinatedPersons": 114551,
-      "administeredVaccineDoses": 6426824
+      "vaccinationRate": 74.48727732410778,
+      "vaccinatedPersons": 114684,
+      "administeredVaccineDoses": 6439189
     },
     {
       "statusDate": "2021-06-17",
-      "vaccinationRate": 75.51584019911431,
-      "vaccinatedPersons": 101281,
-      "administeredVaccineDoses": 6528105
+      "vaccinationRate": 75.65959330145478,
+      "vaccinatedPersons": 101343,
+      "administeredVaccineDoses": 6540532
     },
     {
       "statusDate": "2021-06-18",
-      "vaccinationRate": 76.64451085135221,
-      "vaccinatedPersons": 97570,
-      "administeredVaccineDoses": 6625675
+      "vaccinationRate": 76.78916624241745,
+      "vaccinatedPersons": 97648,
+      "administeredVaccineDoses": 6638180
     },
     {
       "statusDate": "2021-06-19",
-      "vaccinationRate": 77.34186435754788,
-      "vaccinatedPersons": 60284,
-      "administeredVaccineDoses": 6685959
+      "vaccinationRate": 77.48731792710039,
+      "vaccinatedPersons": 60353,
+      "administeredVaccineDoses": 6698533
     },
     {
       "statusDate": "2021-06-20",
-      "vaccinationRate": 77.69639441955246,
-      "vaccinatedPersons": 30648,
-      "administeredVaccineDoses": 6716607
+      "vaccinationRate": 77.8419058281258,
+      "vaccinatedPersons": 30653,
+      "administeredVaccineDoses": 6729186
     },
     {
       "statusDate": "2021-06-21",
-      "vaccinationRate": 78.67498438057243,
-      "vaccinatedPersons": 84596,
-      "administeredVaccineDoses": 6801203
+      "vaccinationRate": 78.8215947305413,
+      "vaccinatedPersons": 84691,
+      "administeredVaccineDoses": 6813877
     },
     {
       "statusDate": "2021-06-22",
-      "vaccinationRate": 79.6890296613537,
-      "vaccinatedPersons": 87661,
-      "administeredVaccineDoses": 6888864
+      "vaccinationRate": 79.83803454678441,
+      "vaccinatedPersons": 87868,
+      "administeredVaccineDoses": 6901745
     },
     {
       "statusDate": "2021-06-23",
-      "vaccinationRate": 80.77070032527509,
-      "vaccinatedPersons": 93507,
-      "administeredVaccineDoses": 6982371
+      "vaccinationRate": 80.93775098520096,
+      "vaccinatedPersons": 95067,
+      "administeredVaccineDoses": 6996812
     },
     {
       "statusDate": "2021-06-24",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 81.90062030036266,
+      "vaccinatedPersons": 83237,
+      "administeredVaccineDoses": 7080049
     },
     {
       "statusDate": "2021-06-25",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 82.85615562768467,
+      "vaccinatedPersons": 82603,
+      "administeredVaccineDoses": 7162652
     },
     {
       "statusDate": "2021-06-26",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 83.41454510246355,
+      "vaccinatedPersons": 48271,
+      "administeredVaccineDoses": 7210923
     },
     {
       "statusDate": "2021-06-27",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 83.7118608050752,
+      "vaccinatedPersons": 25702,
+      "administeredVaccineDoses": 7236625
     },
     {
       "statusDate": "2021-06-28",
