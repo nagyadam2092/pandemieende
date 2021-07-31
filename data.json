@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2021-07-16",
-      "vaccinationRate": 97.95065938218903,
-      "vaccinatedPersons": 60403,
-      "administeredVaccineDoses": 8467524
+      "vaccinationRate": 97.95310018886754,
+      "vaccinatedPersons": 60406,
+      "administeredVaccineDoses": 8467735
     },
     {
       "statusDate": "2021-07-17",
-      "vaccinationRate": 98.33378505608592,
-      "vaccinatedPersons": 33120,
-      "administeredVaccineDoses": 8500644
+      "vaccinationRate": 98.33621429496027,
+      "vaccinatedPersons": 33119,
+      "administeredVaccineDoses": 8500854
     },
     {
       "statusDate": "2021-07-18",
-      "vaccinationRate": 98.42452291194483,
+      "vaccinationRate": 98.42695215081918,
       "vaccinatedPersons": 7844,
-      "administeredVaccineDoses": 8508488
+      "administeredVaccineDoses": 8508698
     },
     {
       "statusDate": "2021-07-19",
-      "vaccinationRate": 99.16177377470059,
-      "vaccinatedPersons": 63733,
-      "administeredVaccineDoses": 8572221
+      "vaccinationRate": 99.1642145813791,
+      "vaccinatedPersons": 63734,
+      "administeredVaccineDoses": 8572432
     },
     {
       "statusDate": "2021-07-20",
-      "vaccinationRate": 99.79663800280473,
-      "vaccinatedPersons": 54882,
-      "administeredVaccineDoses": 8627103
+      "vaccinationRate": 99.79910194509156,
+      "vaccinatedPersons": 54884,
+      "administeredVaccineDoses": 8627316
     },
     {
       "statusDate": "2021-07-21",
-      "vaccinationRate": 100.36261595711491,
-      "vaccinatedPersons": 48927,
-      "administeredVaccineDoses": 8676030
+      "vaccinationRate": 100.36509146720591,
+      "vaccinatedPersons": 48928,
+      "administeredVaccineDoses": 8676244
     },
     {
       "statusDate": "2021-07-22",
-      "vaccinationRate": 100.87547455470605,
-      "vaccinatedPersons": 44335,
-      "administeredVaccineDoses": 8720365
+      "vaccinationRate": 100.87796163260121,
+      "vaccinatedPersons": 44336,
+      "administeredVaccineDoses": 8720580
     },
     {
       "statusDate": "2021-07-23",
-      "vaccinationRate": 101.43000038289432,
-      "vaccinatedPersons": 47937,
-      "administeredVaccineDoses": 8768302
+      "vaccinationRate": 101.43247589298532,
+      "vaccinatedPersons": 47936,
+      "administeredVaccineDoses": 8768516
     },
     {
       "statusDate": "2021-07-24",
-      "vaccinationRate": 101.72612460167711,
+      "vaccinationRate": 101.72860011176812,
       "vaccinatedPersons": 25599,
-      "administeredVaccineDoses": 8793901
+      "administeredVaccineDoses": 8794115
     },
     {
       "statusDate": "2021-07-25",
-      "vaccinationRate": 101.78262175721191,
+      "vaccinationRate": 101.78509726730292,
       "vaccinatedPersons": 4884,
-      "administeredVaccineDoses": 8798785
+      "administeredVaccineDoses": 8798999
     },
     {
       "statusDate": "2021-07-26",
-      "vaccinationRate": 102.27462360389616,
-      "vaccinatedPersons": 42532,
-      "administeredVaccineDoses": 8841317
+      "vaccinationRate": 102.27714538520382,
+      "vaccinatedPersons": 42536,
+      "administeredVaccineDoses": 8841535
     },
     {
       "statusDate": "2021-07-27",
-      "vaccinationRate": 102.6829092518488,
-      "vaccinatedPersons": 35295,
-      "administeredVaccineDoses": 8876612
+      "vaccinationRate": 102.68568552484805,
+      "vaccinatedPersons": 35317,
+      "administeredVaccineDoses": 8876852
     },
     {
       "statusDate": "2021-07-28",
-      "vaccinationRate": 103.04543266653039,
-      "vaccinatedPersons": 31339,
-      "administeredVaccineDoses": 8907951
+      "vaccinationRate": 103.05022173745411,
+      "vaccinatedPersons": 31513,
+      "administeredVaccineDoses": 8908365
     },
     {
       "statusDate": "2021-07-29",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 103.40305133224665,
+      "vaccinatedPersons": 30501,
+      "administeredVaccineDoses": 8938866
     },
     {
       "statusDate": "2021-07-30",
