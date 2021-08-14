@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2021-07-30",
-      "vaccinationRate": 103.85760819685348,
-      "vaccinatedPersons": 31772,
-      "administeredVaccineDoses": 8978161
+      "vaccinationRate": 103.85993332549037,
+      "vaccinatedPersons": 31774,
+      "administeredVaccineDoses": 8978362
     },
     {
       "statusDate": "2021-07-31",
-      "vaccinationRate": 103.98946959651383,
+      "vaccinationRate": 103.9917947251507,
       "vaccinatedPersons": 11399,
-      "administeredVaccineDoses": 8989560
+      "administeredVaccineDoses": 8989761
     },
     {
       "statusDate": "2021-08-01",
-      "vaccinationRate": 104.00650897204675,
+      "vaccinationRate": 104.00883410068363,
       "vaccinatedPersons": 1473,
-      "administeredVaccineDoses": 8991033
+      "administeredVaccineDoses": 8991234
     },
     {
       "statusDate": "2021-08-02",
-      "vaccinationRate": 104.25735680533342,
-      "vaccinatedPersons": 21685,
-      "administeredVaccineDoses": 9012718
+      "vaccinationRate": 104.25967036616612,
+      "vaccinatedPersons": 21684,
+      "administeredVaccineDoses": 9012918
     },
     {
       "statusDate": "2021-08-03",
-      "vaccinationRate": 104.56444730246326,
-      "vaccinatedPersons": 26547,
-      "administeredVaccineDoses": 9039265
+      "vaccinationRate": 104.56677243110013,
+      "vaccinatedPersons": 26548,
+      "administeredVaccineDoses": 9039466
     },
     {
       "statusDate": "2021-08-04",
-      "vaccinationRate": 104.84001553324742,
-      "vaccinatedPersons": 23822,
-      "administeredVaccineDoses": 9063087
+      "vaccinationRate": 104.8425951535759,
+      "vaccinatedPersons": 23844,
+      "administeredVaccineDoses": 9063310
     },
     {
       "statusDate": "2021-08-05",
-      "vaccinationRate": 105.12872478956139,
-      "vaccinatedPersons": 24958,
-      "administeredVaccineDoses": 9088045
+      "vaccinationRate": 105.13147792695233,
+      "vaccinatedPersons": 24973,
+      "administeredVaccineDoses": 9088283
     },
     {
       "statusDate": "2021-08-06",
-      "vaccinationRate": 105.44819283714627,
-      "vaccinatedPersons": 27617,
-      "administeredVaccineDoses": 9115662
+      "vaccinationRate": 105.45126987305376,
+      "vaccinatedPersons": 27645,
+      "administeredVaccineDoses": 9115928
     },
     {
       "statusDate": "2021-08-07",
-      "vaccinationRate": 105.55451252521348,
-      "vaccinatedPersons": 9191,
-      "administeredVaccineDoses": 9124853
+      "vaccinationRate": 105.55760112892514,
+      "vaccinatedPersons": 9192,
+      "administeredVaccineDoses": 9125120
     },
     {
       "statusDate": "2021-08-08",
-      "vaccinationRate": 105.56405596364841,
+      "vaccinationRate": 105.56714456736007,
       "vaccinatedPersons": 825,
-      "administeredVaccineDoses": 9125678
+      "administeredVaccineDoses": 9125945
     },
     {
       "statusDate": "2021-08-09",
-      "vaccinationRate": 105.81353879604376,
-      "vaccinatedPersons": 21567,
-      "administeredVaccineDoses": 9147245
+      "vaccinationRate": 105.81681248462205,
+      "vaccinatedPersons": 21583,
+      "administeredVaccineDoses": 9147528
     },
     {
       "statusDate": "2021-08-10",
-      "vaccinationRate": 106.07036718408298,
-      "vaccinatedPersons": 22202,
-      "administeredVaccineDoses": 9169447
+      "vaccinationRate": 106.0739184999612,
+      "vaccinatedPersons": 22226,
+      "administeredVaccineDoses": 9169754
     },
     {
       "statusDate": "2021-08-11",
-      "vaccinationRate": 106.34121575076843,
-      "vaccinatedPersons": 23414,
-      "administeredVaccineDoses": 9192861
+      "vaccinationRate": 106.34568092317555,
+      "vaccinatedPersons": 23493,
+      "administeredVaccineDoses": 9193247
     },
     {
       "statusDate": "2021-08-12",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 106.63686568958053,
+      "vaccinatedPersons": 25172,
+      "administeredVaccineDoses": 9218419
     },
     {
       "statusDate": "2021-08-13",
