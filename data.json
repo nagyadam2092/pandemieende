@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2021-08-06",
-      "vaccinationRate": 105.47748251728837,
-      "vaccinatedPersons": 27736,
-      "administeredVaccineDoses": 9118194
+      "vaccinationRate": 105.49971583689073,
+      "vaccinatedPersons": 27957,
+      "administeredVaccineDoses": 9120116
     },
     {
       "statusDate": "2021-08-07",
-      "vaccinationRate": 105.5838947477889,
-      "vaccinatedPersons": 9199,
-      "administeredVaccineDoses": 9127393
+      "vaccinationRate": 105.6061396351954,
+      "vaccinatedPersons": 9200,
+      "administeredVaccineDoses": 9129316
     },
     {
       "statusDate": "2021-08-08",
-      "vaccinationRate": 105.59343818622384,
+      "vaccinationRate": 105.61568307363034,
       "vaccinatedPersons": 825,
-      "administeredVaccineDoses": 9128218
+      "administeredVaccineDoses": 9130141
     },
     {
       "statusDate": "2021-08-09",
-      "vaccinationRate": 105.8435572478482,
-      "vaccinatedPersons": 21622,
-      "administeredVaccineDoses": 9149840
+      "vaccinationRate": 105.8661491693796,
+      "vaccinatedPersons": 21652,
+      "administeredVaccineDoses": 9151793
     },
     {
       "statusDate": "2021-08-10",
-      "vaccinationRate": 106.10110283974554,
-      "vaccinatedPersons": 22264,
-      "administeredVaccineDoses": 9172104
+      "vaccinationRate": 106.12405336320603,
+      "vaccinatedPersons": 22295,
+      "administeredVaccineDoses": 9174088
     },
     {
       "statusDate": "2021-08-11",
-      "vaccinationRate": 106.37365187364303,
-      "vaccinatedPersons": 23561,
-      "administeredVaccineDoses": 9195665
+      "vaccinationRate": 106.39759722826159,
+      "vaccinatedPersons": 23647,
+      "administeredVaccineDoses": 9197735
     },
     {
       "statusDate": "2021-08-12",
-      "vaccinationRate": 106.66701138723073,
-      "vaccinatedPersons": 25360,
-      "administeredVaccineDoses": 9221025
+      "vaccinationRate": 106.69469314259412,
+      "vaccinatedPersons": 25683,
+      "administeredVaccineDoses": 9223418
     },
     {
       "statusDate": "2021-08-13",
-      "vaccinationRate": 106.98031379519641,
-      "vaccinatedPersons": 27084,
-      "administeredVaccineDoses": 9248109
+      "vaccinationRate": 107.012252502492,
+      "vaccinatedPersons": 27452,
+      "administeredVaccineDoses": 9250870
     },
     {
       "statusDate": "2021-08-14",
-      "vaccinationRate": 107.0990920083478,
-      "vaccinatedPersons": 10268,
-      "administeredVaccineDoses": 9258377
+      "vaccinationRate": 107.13110012246834,
+      "vaccinatedPersons": 10274,
+      "administeredVaccineDoses": 9261144
     },
     {
       "statusDate": "2021-08-15",
-      "vaccinationRate": 107.10568565672101,
+      "vaccinationRate": 107.13769377084157,
       "vaccinatedPersons": 570,
-      "administeredVaccineDoses": 9258947
+      "administeredVaccineDoses": 9261714
     },
     {
       "statusDate": "2021-08-16",
-      "vaccinationRate": 107.35290119950032,
-      "vaccinatedPersons": 21371,
-      "administeredVaccineDoses": 9280318
+      "vaccinationRate": 107.38521007652912,
+      "vaccinatedPersons": 21397,
+      "administeredVaccineDoses": 9283111
     },
     {
       "statusDate": "2021-08-17",
-      "vaccinationRate": 107.61959692449103,
-      "vaccinatedPersons": 23055,
-      "administeredVaccineDoses": 9303373
+      "vaccinationRate": 107.65248419172802,
+      "vaccinatedPersons": 23105,
+      "administeredVaccineDoses": 9306216
     },
     {
       "statusDate": "2021-08-18",
-      "vaccinationRate": 107.92288161405108,
-      "vaccinatedPersons": 26218,
-      "administeredVaccineDoses": 9329591
+      "vaccinationRate": 107.95678684805445,
+      "vaccinatedPersons": 26306,
+      "administeredVaccineDoses": 9332522
     },
     {
       "statusDate": "2021-08-19",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 108.24608606238077,
+      "vaccinatedPersons": 25009,
+      "administeredVaccineDoses": 9357531
     },
     {
       "statusDate": "2021-08-20",
