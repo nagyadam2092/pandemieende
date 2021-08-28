@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2021-08-13",
-      "vaccinationRate": 107.04700218619931,
-      "vaccinatedPersons": 27525,
-      "administeredVaccineDoses": 9253874
+      "vaccinationRate": 107.04982473041522,
+      "vaccinatedPersons": 27528,
+      "administeredVaccineDoses": 9254118
     },
     {
       "statusDate": "2021-08-14",
-      "vaccinationRate": 107.16649760320882,
+      "vaccinationRate": 107.16932014742473,
       "vaccinatedPersons": 10330,
-      "administeredVaccineDoses": 9264204
+      "administeredVaccineDoses": 9264448
     },
     {
       "statusDate": "2021-08-15",
-      "vaccinationRate": 107.17312595499453,
+      "vaccinationRate": 107.17594849921043,
       "vaccinatedPersons": 573,
-      "administeredVaccineDoses": 9264777
+      "administeredVaccineDoses": 9265021
     },
     {
       "statusDate": "2021-08-16",
-      "vaccinationRate": 107.42141730356106,
-      "vaccinatedPersons": 21464,
-      "administeredVaccineDoses": 9286241
+      "vaccinationRate": 107.42425141558113,
+      "vaccinatedPersons": 21465,
+      "administeredVaccineDoses": 9286486
     },
     {
       "statusDate": "2021-08-17",
-      "vaccinationRate": 107.6907389200969,
-      "vaccinatedPersons": 23282,
-      "administeredVaccineDoses": 9309523
+      "vaccinationRate": 107.69360773552945,
+      "vaccinatedPersons": 23285,
+      "administeredVaccineDoses": 9309771
     },
     {
       "statusDate": "2021-08-18",
-      "vaccinationRate": 107.9965453909646,
-      "vaccinatedPersons": 26436,
-      "administeredVaccineDoses": 9335959
+      "vaccinationRate": 107.99943734200548,
+      "vaccinatedPersons": 26438,
+      "administeredVaccineDoses": 9336209
     },
     {
       "statusDate": "2021-08-19",
-      "vaccinationRate": 108.28851676805269,
-      "vaccinatedPersons": 25240,
-      "administeredVaccineDoses": 9361199
+      "vaccinationRate": 108.29154753274352,
+      "vaccinatedPersons": 25252,
+      "administeredVaccineDoses": 9361461
     },
     {
       "statusDate": "2021-08-20",
-      "vaccinationRate": 108.64984869890544,
-      "vaccinatedPersons": 31236,
-      "administeredVaccineDoses": 9392435
+      "vaccinationRate": 108.65291416700877,
+      "vaccinatedPersons": 31239,
+      "administeredVaccineDoses": 9392700
     },
     {
       "statusDate": "2021-08-21",
-      "vaccinationRate": 108.78647603388116,
-      "vaccinatedPersons": 11811,
-      "administeredVaccineDoses": 9404246
+      "vaccinationRate": 108.79001578195522,
+      "vaccinatedPersons": 11852,
+      "administeredVaccineDoses": 9404552
     },
     {
       "statusDate": "2021-08-22",
-      "vaccinationRate": 108.7965631591118,
+      "vaccinationRate": 108.80010290718585,
       "vaccinatedPersons": 872,
-      "administeredVaccineDoses": 9405118
+      "administeredVaccineDoses": 9405424
     },
     {
       "statusDate": "2021-08-23",
-      "vaccinationRate": 109.052824724747,
-      "vaccinatedPersons": 22153,
-      "administeredVaccineDoses": 9427271
+      "vaccinationRate": 109.0566652357293,
+      "vaccinatedPersons": 22179,
+      "administeredVaccineDoses": 9427603
     },
     {
       "statusDate": "2021-08-24",
-      "vaccinationRate": 109.33144685583034,
-      "vaccinatedPersons": 24086,
-      "administeredVaccineDoses": 9451357
+      "vaccinationRate": 109.33548401948343,
+      "vaccinatedPersons": 24103,
+      "administeredVaccineDoses": 9451706
     },
     {
       "statusDate": "2021-08-25",
-      "vaccinationRate": 109.65595846603051,
-      "vaccinatedPersons": 28053,
-      "administeredVaccineDoses": 9479410
+      "vaccinationRate": 109.66118711351243,
+      "vaccinatedPersons": 28156,
+      "administeredVaccineDoses": 9479862
     },
     {
       "statusDate": "2021-08-26",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 109.99046465902798,
+      "vaccinatedPersons": 28465,
+      "administeredVaccineDoses": 9508327
     },
     {
       "statusDate": "2021-08-27",
