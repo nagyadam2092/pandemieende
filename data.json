@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2021-10-25",
-      "vaccinationRate": 127.21810620470409,
-      "vaccinatedPersons": 16452,
-      "administeredVaccineDoses": 10997602
+      "vaccinationRate": 127.22731417681827,
+      "vaccinatedPersons": 16667,
+      "administeredVaccineDoses": 10998398
     },
     {
       "statusDate": "2021-10-26",
-      "vaccinationRate": 127.41819451332108,
-      "vaccinatedPersons": 17297,
-      "administeredVaccineDoses": 11014899
+      "vaccinationRate": 127.429079817039,
+      "vaccinatedPersons": 17442,
+      "administeredVaccineDoses": 11015840
     },
     {
       "statusDate": "2021-10-27",
-      "vaccinationRate": 127.6463925860555,
-      "vaccinatedPersons": 19727,
-      "administeredVaccineDoses": 11034626
+      "vaccinationRate": 127.65742827122753,
+      "vaccinatedPersons": 19740,
+      "administeredVaccineDoses": 11035580
     },
     {
       "statusDate": "2021-10-28",
-      "vaccinationRate": 127.83185919020974,
-      "vaccinatedPersons": 16033,
-      "administeredVaccineDoses": 11050659
+      "vaccinationRate": 127.84316093487756,
+      "vaccinatedPersons": 16056,
+      "administeredVaccineDoses": 11051636
     },
     {
       "statusDate": "2021-10-29",
-      "vaccinationRate": 128.06387463831814,
-      "vaccinatedPersons": 20057,
-      "administeredVaccineDoses": 11070716
+      "vaccinationRate": 128.07648354485642,
+      "vaccinatedPersons": 20170,
+      "administeredVaccineDoses": 11071806
     },
     {
       "statusDate": "2021-10-30",
-      "vaccinationRate": 128.16369322044545,
+      "vaccinationRate": 128.17630212698373,
       "vaccinatedPersons": 8629,
-      "administeredVaccineDoses": 11079345
+      "administeredVaccineDoses": 11080435
     },
     {
       "statusDate": "2021-10-31",
-      "vaccinationRate": 128.1712007253476,
+      "vaccinationRate": 128.18380963188588,
       "vaccinatedPersons": 649,
-      "administeredVaccineDoses": 11079994
+      "administeredVaccineDoses": 11081084
     },
     {
       "statusDate": "2021-11-01",
-      "vaccinationRate": 128.27639833641095,
-      "vaccinatedPersons": 9094,
-      "administeredVaccineDoses": 11089088
+      "vaccinationRate": 128.28925016683667,
+      "vaccinatedPersons": 9115,
+      "administeredVaccineDoses": 11090199
     },
     {
       "statusDate": "2021-11-02",
-      "vaccinationRate": 128.4271152568579,
-      "vaccinatedPersons": 13029,
-      "administeredVaccineDoses": 11102117
+      "vaccinationRate": 128.44182950375392,
+      "vaccinatedPersons": 13190,
+      "administeredVaccineDoses": 11103389
     },
     {
       "statusDate": "2021-11-03",
-      "vaccinationRate": 128.5988855808825,
-      "vaccinatedPersons": 14849,
-      "administeredVaccineDoses": 11116966
+      "vaccinationRate": 128.61563576131132,
+      "vaccinatedPersons": 15025,
+      "administeredVaccineDoses": 11118414
     },
     {
       "statusDate": "2021-11-04",
-      "vaccinationRate": 128.73769923084512,
-      "vaccinatedPersons": 12000,
-      "administeredVaccineDoses": 11128966
+      "vaccinationRate": 128.75686708234414,
+      "vaccinatedPersons": 12209,
+      "administeredVaccineDoses": 11130623
     },
     {
       "statusDate": "2021-11-05",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 128.9436061449564,
+      "vaccinatedPersons": 16143,
+      "administeredVaccineDoses": 11146766
     },
     {
       "statusDate": "2021-11-06",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 129.04374862560027,
+      "vaccinatedPersons": 8657,
+      "administeredVaccineDoses": 11155423
     },
     {
       "statusDate": "2021-11-07",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 129.0492664681863,
+      "vaccinatedPersons": 477,
+      "administeredVaccineDoses": 11155900
     },
     {
       "statusDate": "2021-11-08",
