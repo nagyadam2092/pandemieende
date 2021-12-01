@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2021-11-16",
-      "vaccinationRate": 131.4943763698449,
-      "vaccinatedPersons": 37498,
-      "administeredVaccineDoses": 11367272
+      "vaccinationRate": 131.51930498781738,
+      "vaccinatedPersons": 37548,
+      "administeredVaccineDoses": 11369427
     },
     {
       "statusDate": "2021-11-17",
-      "vaccinationRate": 132.01335433583856,
-      "vaccinatedPersons": 44864,
-      "administeredVaccineDoses": 11412136
+      "vaccinationRate": 132.0412443116769,
+      "vaccinatedPersons": 45120,
+      "administeredVaccineDoses": 11414547
     },
     {
       "statusDate": "2021-11-18",
-      "vaccinationRate": 132.530192258062,
-      "vaccinatedPersons": 44679,
-      "administeredVaccineDoses": 11456815
+      "vaccinationRate": 132.5624317282658,
+      "vaccinatedPersons": 45055,
+      "administeredVaccineDoses": 11459602
     },
     {
       "statusDate": "2021-11-19",
-      "vaccinationRate": 133.06207989350216,
-      "vaccinatedPersons": 45980,
-      "administeredVaccineDoses": 11502795
+      "vaccinationRate": 133.09918940925886,
+      "vaccinatedPersons": 46401,
+      "administeredVaccineDoses": 11506003
     },
     {
       "statusDate": "2021-11-20",
-      "vaccinationRate": 133.30171852455436,
-      "vaccinatedPersons": 20716,
-      "administeredVaccineDoses": 11523511
+      "vaccinationRate": 133.340169905594,
+      "vaccinatedPersons": 20832,
+      "administeredVaccineDoses": 11526835
     },
     {
       "statusDate": "2021-11-21",
-      "vaccinationRate": 133.3467288505547,
-      "vaccinatedPersons": 3891,
-      "administeredVaccineDoses": 11527402
+      "vaccinationRate": 133.3852033672027,
+      "vaccinatedPersons": 3893,
+      "administeredVaccineDoses": 11530728
     },
     {
       "statusDate": "2021-11-22",
-      "vaccinationRate": 133.82621433313403,
-      "vaccinatedPersons": 41450,
-      "administeredVaccineDoses": 11568852
+      "vaccinationRate": 133.8699869040889,
+      "vaccinatedPersons": 41908,
+      "administeredVaccineDoses": 11572636
     },
     {
       "statusDate": "2021-11-23",
-      "vaccinationRate": 134.366291973922,
-      "vaccinatedPersons": 46688,
-      "administeredVaccineDoses": 11615540
+      "vaccinationRate": 134.42222230705278,
+      "vaccinatedPersons": 47739,
+      "administeredVaccineDoses": 11620375
     },
     {
       "statusDate": "2021-11-24",
-      "vaccinationRate": 134.97185495407987,
-      "vaccinatedPersons": 52349,
-      "administeredVaccineDoses": 11667889
+      "vaccinationRate": 135.04756623233033,
+      "vaccinatedPersons": 54059,
+      "administeredVaccineDoses": 11674434
     },
     {
       "statusDate": "2021-11-25",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 135.65060743118053,
+      "vaccinatedPersons": 52131,
+      "administeredVaccineDoses": 11726565
     },
     {
       "statusDate": "2021-11-26",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 136.26869834324754,
+      "vaccinatedPersons": 53432,
+      "administeredVaccineDoses": 11779997
     },
     {
       "statusDate": "2021-11-27",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 136.52472855279944,
+      "vaccinatedPersons": 22133,
+      "administeredVaccineDoses": 11802130
     },
     {
       "statusDate": "2021-11-28",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 136.57909723236813,
+      "vaccinatedPersons": 4700,
+      "administeredVaccineDoses": 11806830
     },
     {
       "statusDate": "2021-11-29",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 137.16905524470937,
+      "vaccinatedPersons": 51000,
+      "administeredVaccineDoses": 11857830
     },
     {
       "statusDate": "2021-11-30",
