@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2021-11-25",
-      "vaccinationRate": 135.96312322846308,
-      "vaccinatedPersons": 53401,
-      "administeredVaccineDoses": 11753581
+      "vaccinationRate": 135.9705150553236,
+      "vaccinatedPersons": 53414,
+      "administeredVaccineDoses": 11754220
     },
     {
       "statusDate": "2021-11-26",
-      "vaccinationRate": 136.59385775048085,
-      "vaccinatedPersons": 54525,
-      "administeredVaccineDoses": 11808106
+      "vaccinationRate": 136.602568307016,
+      "vaccinatedPersons": 54639,
+      "administeredVaccineDoses": 11808859
     },
     {
       "statusDate": "2021-11-27",
-      "vaccinationRate": 136.85641220158104,
-      "vaccinatedPersons": 22697,
-      "administeredVaccineDoses": 11830803
+      "vaccinationRate": 136.86513432592034,
+      "vaccinatedPersons": 22698,
+      "administeredVaccineDoses": 11831557
     },
     {
       "statusDate": "2021-11-28",
-      "vaccinationRate": 136.91089655919134,
+      "vaccinationRate": 136.91961868353067,
       "vaccinatedPersons": 4710,
-      "administeredVaccineDoses": 11835513
+      "administeredVaccineDoses": 11836267
     },
     {
       "statusDate": "2021-11-29",
-      "vaccinationRate": 137.51987204157749,
-      "vaccinatedPersons": 52644,
-      "administeredVaccineDoses": 11888157
+      "vaccinationRate": 137.53028306532465,
+      "vaccinatedPersons": 52790,
+      "administeredVaccineDoses": 11889057
     },
     {
       "statusDate": "2021-11-30",
-      "vaccinationRate": 138.18763510472277,
-      "vaccinatedPersons": 57726,
-      "administeredVaccineDoses": 11945883
+      "vaccinationRate": 138.19845100161567,
+      "vaccinatedPersons": 57761,
+      "administeredVaccineDoses": 11946818
     },
     {
       "statusDate": "2021-12-01",
-      "vaccinationRate": 138.98772227969494,
-      "vaccinatedPersons": 69165,
-      "administeredVaccineDoses": 12015048
+      "vaccinationRate": 138.99971809261254,
+      "vaccinatedPersons": 69267,
+      "administeredVaccineDoses": 12016085
     },
     {
       "statusDate": "2021-12-02",
-      "vaccinationRate": 139.72946145046615,
-      "vaccinatedPersons": 64121,
-      "administeredVaccineDoses": 12079169
+      "vaccinationRate": 139.7433081120499,
+      "vaccinatedPersons": 64281,
+      "administeredVaccineDoses": 12080366
     },
     {
       "statusDate": "2021-12-03",
-      "vaccinationRate": 140.52974527810912,
-      "vaccinatedPersons": 69182,
-      "administeredVaccineDoses": 12148351
+      "vaccinationRate": 140.5478026204084,
+      "vaccinatedPersons": 69546,
+      "administeredVaccineDoses": 12149912
     },
     {
       "statusDate": "2021-12-04",
-      "vaccinationRate": 140.92719189356046,
-      "vaccinatedPersons": 34358,
-      "administeredVaccineDoses": 12182709
+      "vaccinationRate": 140.9462903382345,
+      "vaccinatedPersons": 34448,
+      "administeredVaccineDoses": 12184360
     },
     {
       "statusDate": "2021-12-05",
-      "vaccinationRate": 141.03421721768166,
+      "vaccinationRate": 141.0533156623557,
       "vaccinatedPersons": 9252,
-      "administeredVaccineDoses": 12191961
+      "administeredVaccineDoses": 12193612
     },
     {
       "statusDate": "2021-12-06",
-      "vaccinationRate": 141.7478581921396,
-      "vaccinatedPersons": 61692,
-      "administeredVaccineDoses": 12253653
+      "vaccinationRate": 141.77003367272113,
+      "vaccinatedPersons": 61958,
+      "administeredVaccineDoses": 12255570
     },
     {
       "statusDate": "2021-12-07",
-      "vaccinationRate": 142.60680235469593,
-      "vaccinatedPersons": 74253,
-      "administeredVaccineDoses": 12327906
+      "vaccinationRate": 142.63901868929142,
+      "vaccinatedPersons": 75121,
+      "administeredVaccineDoses": 12330691
     },
     {
       "statusDate": "2021-12-08",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 143.45216591516427,
+      "vaccinatedPersons": 70294,
+      "administeredVaccineDoses": 12400985
     },
     {
       "statusDate": "2021-12-09",
