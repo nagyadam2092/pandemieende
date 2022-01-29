@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2022-01-14",
-      "vaccinationRate": 170.43757417131434,
-      "vaccinatedPersons": 78337,
-      "administeredVaccineDoses": 14733788
+      "vaccinationRate": 170.46505927400693,
+      "vaccinatedPersons": 78561,
+      "administeredVaccineDoses": 14736164
     },
     {
       "statusDate": "2022-01-15",
-      "vaccinationRate": 170.92838453416974,
-      "vaccinatedPersons": 42429,
-      "administeredVaccineDoses": 14776217
+      "vaccinationRate": 170.95602001831648,
+      "vaccinatedPersons": 42442,
+      "administeredVaccineDoses": 14778606
     },
     {
       "statusDate": "2022-01-16",
-      "vaccinationRate": 171.07804878443778,
+      "vaccinationRate": 171.10568426858453,
       "vaccinatedPersons": 12938,
-      "administeredVaccineDoses": 14789155
+      "administeredVaccineDoses": 14791544
     },
     {
       "statusDate": "2022-01-17",
-      "vaccinationRate": 171.72003877990667,
-      "vaccinatedPersons": 55498,
-      "administeredVaccineDoses": 14844653
+      "vaccinationRate": 171.74876163764478,
+      "vaccinatedPersons": 55592,
+      "administeredVaccineDoses": 14847136
     },
     {
       "statusDate": "2022-01-18",
-      "vaccinationRate": 172.41236029129118,
-      "vaccinatedPersons": 59849,
-      "administeredVaccineDoses": 14904502
+      "vaccinationRate": 172.44234403968312,
+      "vaccinatedPersons": 59958,
+      "administeredVaccineDoses": 14907094
     },
     {
       "statusDate": "2022-01-19",
-      "vaccinationRate": 173.04314108452562,
-      "vaccinatedPersons": 54529,
-      "administeredVaccineDoses": 14959031
+      "vaccinationRate": 173.07547309716273,
+      "vaccinatedPersons": 54732,
+      "administeredVaccineDoses": 14961826
     },
     {
       "statusDate": "2022-01-20",
-      "vaccinationRate": 173.64555762195099,
-      "vaccinatedPersons": 52077,
-      "administeredVaccineDoses": 15011108
+      "vaccinationRate": 173.68203090847865,
+      "vaccinatedPersons": 52435,
+      "administeredVaccineDoses": 15014261
     },
     {
       "statusDate": "2022-01-21",
-      "vaccinationRate": 174.27080900479518,
-      "vaccinatedPersons": 54051,
-      "administeredVaccineDoses": 15065159
+      "vaccinationRate": 174.30967682678474,
+      "vaccinatedPersons": 54258,
+      "administeredVaccineDoses": 15068519
     },
     {
       "statusDate": "2022-01-22",
-      "vaccinationRate": 174.59839765090288,
-      "vaccinatedPersons": 28319,
-      "administeredVaccineDoses": 15093478
+      "vaccinationRate": 174.64049289025405,
+      "vaccinatedPersons": 28598,
+      "administeredVaccineDoses": 15097117
     },
     {
       "statusDate": "2022-01-23",
-      "vaccinationRate": 174.66781604368836,
+      "vaccinationRate": 174.70991128303953,
       "vaccinatedPersons": 6001,
-      "administeredVaccineDoses": 15099479
+      "administeredVaccineDoses": 15103118
     },
     {
       "statusDate": "2022-01-24",
-      "vaccinationRate": 175.08369017117226,
-      "vaccinatedPersons": 35951,
-      "administeredVaccineDoses": 15135430
+      "vaccinationRate": 175.12784447966456,
+      "vaccinatedPersons": 36129,
+      "administeredVaccineDoses": 15139247
     },
     {
       "statusDate": "2022-01-25",
-      "vaccinationRate": 175.4969615427194,
-      "vaccinatedPersons": 35726,
-      "administeredVaccineDoses": 15171156
+      "vaccinationRate": 175.5442391583358,
+      "vaccinatedPersons": 35996,
+      "administeredVaccineDoses": 15175243
     },
     {
       "statusDate": "2022-01-26",
-      "vaccinationRate": 175.88041111513286,
-      "vaccinatedPersons": 33148,
-      "administeredVaccineDoses": 15204304
+      "vaccinationRate": 175.93095085152342,
+      "vaccinatedPersons": 33430,
+      "administeredVaccineDoses": 15208673
     },
     {
       "statusDate": "2022-01-27",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 176.28467116723655,
+      "vaccinatedPersons": 30578,
+      "administeredVaccineDoses": 15239251
     },
     {
       "statusDate": "2022-01-28",
