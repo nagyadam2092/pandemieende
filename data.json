@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2022-01-25",
-      "vaccinationRate": 175.5759812129606,
-      "vaccinatedPersons": 36313,
-      "administeredVaccineDoses": 15177987
+      "vaccinationRate": 175.57952096103466,
+      "vaccinatedPersons": 36358,
+      "administeredVaccineDoses": 15178293
     },
     {
       "statusDate": "2022-01-26",
-      "vaccinationRate": 175.96553858597244,
-      "vaccinatedPersons": 33676,
-      "administeredVaccineDoses": 15211663
+      "vaccinationRate": 175.96950634280054,
+      "vaccinatedPersons": 33713,
+      "administeredVaccineDoses": 15212006
     },
     {
       "statusDate": "2022-01-27",
-      "vaccinationRate": 176.3240132691968,
-      "vaccinatedPersons": 30989,
-      "administeredVaccineDoses": 15242652
+      "vaccinationRate": 176.32800416163323,
+      "vaccinatedPersons": 30991,
+      "administeredVaccineDoses": 15242997
     },
     {
       "statusDate": "2022-01-28",
-      "vaccinationRate": 176.74766096107862,
-      "vaccinatedPersons": 36623,
-      "administeredVaccineDoses": 15279275
+      "vaccinationRate": 176.75170969253585,
+      "vaccinatedPersons": 36628,
+      "administeredVaccineDoses": 15279625
     },
     {
       "statusDate": "2022-01-29",
-      "vaccinationRate": 176.94948444032013,
+      "vaccinationRate": 176.95353317177737,
       "vaccinatedPersons": 17447,
-      "administeredVaccineDoses": 15296722
+      "administeredVaccineDoses": 15297072
     },
     {
       "statusDate": "2022-01-30",
-      "vaccinationRate": 176.97772145028335,
+      "vaccinationRate": 176.98177018174061,
       "vaccinatedPersons": 2441,
-      "administeredVaccineDoses": 15299163
+      "administeredVaccineDoses": 15299513
     },
     {
       "statusDate": "2022-01-31",
-      "vaccinationRate": 177.22498326427933,
+      "vaccinationRate": 177.22903199573656,
       "vaccinatedPersons": 21375,
-      "administeredVaccineDoses": 15320538
+      "administeredVaccineDoses": 15320888
     },
     {
       "statusDate": "2022-02-01",
-      "vaccinationRate": 177.44117395629198,
-      "vaccinatedPersons": 18689,
-      "administeredVaccineDoses": 15339227
+      "vaccinationRate": 177.44524582335754,
+      "vaccinatedPersons": 18691,
+      "administeredVaccineDoses": 15339579
     },
     {
       "statusDate": "2022-02-02",
-      "vaccinationRate": 177.66907126611815,
-      "vaccinatedPersons": 19701,
-      "administeredVaccineDoses": 15358928
+      "vaccinationRate": 177.67318940440038,
+      "vaccinatedPersons": 19705,
+      "administeredVaccineDoses": 15359284
     },
     {
       "statusDate": "2022-02-03",
-      "vaccinationRate": 177.8635491897158,
-      "vaccinatedPersons": 16812,
-      "administeredVaccineDoses": 15375740
+      "vaccinationRate": 177.86803749773125,
+      "vaccinatedPersons": 16844,
+      "administeredVaccineDoses": 15376128
     },
     {
       "statusDate": "2022-02-04",
-      "vaccinationRate": 178.10965422329542,
-      "vaccinatedPersons": 21275,
-      "administeredVaccineDoses": 15397015
+      "vaccinationRate": 178.11494070979813,
+      "vaccinatedPersons": 21344,
+      "administeredVaccineDoses": 15397472
     },
     {
       "statusDate": "2022-02-05",
-      "vaccinationRate": 178.2519150788988,
-      "vaccinatedPersons": 12298,
-      "administeredVaccineDoses": 15409313
+      "vaccinationRate": 178.25757173513477,
+      "vaccinatedPersons": 12330,
+      "administeredVaccineDoses": 15409802
     },
     {
       "statusDate": "2022-02-06",
-      "vaccinationRate": 178.27573318767153,
+      "vaccinationRate": 178.2813898439075,
       "vaccinatedPersons": 2059,
-      "administeredVaccineDoses": 15411372
+      "administeredVaccineDoses": 15411861
     },
     {
       "statusDate": "2022-02-07",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 178.42565192963121,
+      "vaccinatedPersons": 12471,
+      "administeredVaccineDoses": 15424332
     },
     {
       "statusDate": "2022-02-08",
