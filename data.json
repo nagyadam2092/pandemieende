@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2022-01-27",
-      "vaccinationRate": 176.33012106979515,
+      "vaccinationRate": 176.33449369976898,
       "vaccinatedPersons": 31003,
-      "administeredVaccineDoses": 15243180
+      "administeredVaccineDoses": 15243558
     },
     {
       "statusDate": "2022-01-28",
-      "vaccinationRate": 176.75387287191444,
-      "vaccinatedPersons": 36632,
-      "administeredVaccineDoses": 15279812
+      "vaccinationRate": 176.7583727477341,
+      "vaccinatedPersons": 36643,
+      "administeredVaccineDoses": 15280201
     },
     {
       "statusDate": "2022-01-29",
-      "vaccinationRate": 176.95569635115595,
+      "vaccinationRate": 176.9601962269756,
       "vaccinatedPersons": 17447,
-      "administeredVaccineDoses": 15297259
+      "administeredVaccineDoses": 15297648
     },
     {
       "statusDate": "2022-01-30",
-      "vaccinationRate": 176.9839333611192,
+      "vaccinationRate": 176.98843323693882,
       "vaccinatedPersons": 2441,
-      "administeredVaccineDoses": 15299700
+      "administeredVaccineDoses": 15300089
     },
     {
       "statusDate": "2022-01-31",
-      "vaccinationRate": 177.2312992853526,
-      "vaccinatedPersons": 21384,
-      "administeredVaccineDoses": 15321084
+      "vaccinationRate": 177.23581072897642,
+      "vaccinatedPersons": 21385,
+      "administeredVaccineDoses": 15321474
     },
     {
       "statusDate": "2022-02-01",
-      "vaccinationRate": 177.44774446905686,
-      "vaccinatedPersons": 18711,
-      "administeredVaccineDoses": 15339795
+      "vaccinationRate": 177.4522674804848,
+      "vaccinatedPersons": 18712,
+      "administeredVaccineDoses": 15340186
     },
     {
       "statusDate": "2022-02-02",
-      "vaccinationRate": 177.67596567739963,
-      "vaccinatedPersons": 19729,
-      "administeredVaccineDoses": 15359524
+      "vaccinationRate": 177.6805696634567,
+      "vaccinatedPersons": 19736,
+      "administeredVaccineDoses": 15359922
     },
     {
       "statusDate": "2022-02-03",
-      "vaccinationRate": 177.8709757199888,
-      "vaccinatedPersons": 16858,
-      "administeredVaccineDoses": 15376382
+      "vaccinationRate": 177.87581106212917,
+      "vaccinatedPersons": 16878,
+      "administeredVaccineDoses": 15376800
     },
     {
       "statusDate": "2022-02-04",
-      "vaccinationRate": 178.11828380520143,
-      "vaccinatedPersons": 21379,
-      "administeredVaccineDoses": 15397761
+      "vaccinationRate": 178.12374380876662,
+      "vaccinatedPersons": 21433,
+      "administeredVaccineDoses": 15398233
     },
     {
       "statusDate": "2022-02-05",
-      "vaccinationRate": 178.26094953395054,
-      "vaccinatedPersons": 12333,
-      "administeredVaccineDoses": 15410094
+      "vaccinationRate": 178.2667334360323,
+      "vaccinatedPersons": 12361,
+      "administeredVaccineDoses": 15410594
     },
     {
       "statusDate": "2022-02-06",
-      "vaccinationRate": 178.28476764272327,
-      "vaccinatedPersons": 2059,
-      "administeredVaccineDoses": 15412153
+      "vaccinationRate": 178.29060938382588,
+      "vaccinatedPersons": 2064,
+      "administeredVaccineDoses": 15412658
     },
     {
       "statusDate": "2022-02-07",
-      "vaccinationRate": 178.43045256835907,
-      "vaccinatedPersons": 12594,
-      "administeredVaccineDoses": 15424747
+      "vaccinationRate": 178.43669918260738,
+      "vaccinatedPersons": 12629,
+      "administeredVaccineDoses": 15425287
     },
     {
       "statusDate": "2022-02-08",
-      "vaccinationRate": 178.5673690984389,
-      "vaccinatedPersons": 11836,
-      "administeredVaccineDoses": 15436583
+      "vaccinationRate": 178.57462211164943,
+      "vaccinatedPersons": 11923,
+      "administeredVaccineDoses": 15437210
     },
     {
       "statusDate": "2022-02-09",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 178.7406895082214,
+      "vaccinatedPersons": 14356,
+      "administeredVaccineDoses": 15451566
     },
     {
       "statusDate": "2022-02-10",
