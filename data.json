@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2022-02-07",
-      "vaccinationRate": 178.37180380124985,
-      "vaccinatedPersons": 12699,
-      "administeredVaccineDoses": 15419677
+      "vaccinationRate": 178.37500808300314,
+      "vaccinatedPersons": 12702,
+      "administeredVaccineDoses": 15419954
     },
     {
       "statusDate": "2022-02-08",
-      "vaccinationRate": 178.51110329898736,
+      "vaccinationRate": 178.51430758074068,
       "vaccinatedPersons": 12042,
-      "administeredVaccineDoses": 15431719
+      "administeredVaccineDoses": 15431996
     },
     {
       "statusDate": "2022-02-09",
-      "vaccinationRate": 178.6789290017922,
-      "vaccinatedPersons": 14508,
-      "administeredVaccineDoses": 15446227
+      "vaccinationRate": 178.68214485134968,
+      "vaccinatedPersons": 14509,
+      "administeredVaccineDoses": 15446505
     },
     {
       "statusDate": "2022-02-10",
-      "vaccinationRate": 178.8096336210362,
-      "vaccinatedPersons": 11299,
-      "administeredVaccineDoses": 15457526
+      "vaccinationRate": 178.81316180130605,
+      "vaccinatedPersons": 11326,
+      "administeredVaccineDoses": 15457831
     },
     {
       "statusDate": "2022-02-11",
-      "vaccinationRate": 178.97250830365903,
-      "vaccinatedPersons": 14080,
-      "administeredVaccineDoses": 15471606
+      "vaccinationRate": 178.97605961953724,
+      "vaccinatedPersons": 14082,
+      "administeredVaccineDoses": 15471913
     },
     {
       "statusDate": "2022-02-12",
-      "vaccinationRate": 179.08132663742558,
-      "vaccinatedPersons": 9407,
-      "administeredVaccineDoses": 15481013
+      "vaccinationRate": 179.08488952110795,
+      "vaccinatedPersons": 9408,
+      "administeredVaccineDoses": 15481321
     },
     {
       "statusDate": "2022-02-13",
-      "vaccinationRate": 179.10517944961083,
+      "vaccinationRate": 179.10874233329318,
       "vaccinatedPersons": 2062,
-      "administeredVaccineDoses": 15483075
+      "administeredVaccineDoses": 15483383
     },
     {
       "statusDate": "2022-02-14",
-      "vaccinationRate": 179.20174747876817,
-      "vaccinatedPersons": 8348,
-      "administeredVaccineDoses": 15491423
+      "vaccinationRate": 179.20542604049217,
+      "vaccinatedPersons": 8358,
+      "administeredVaccineDoses": 15491741
     },
     {
       "statusDate": "2022-02-15",
-      "vaccinationRate": 179.29033372305264,
-      "vaccinatedPersons": 7658,
-      "administeredVaccineDoses": 15499081
+      "vaccinationRate": 179.29404698818917,
+      "vaccinatedPersons": 7661,
+      "administeredVaccineDoses": 15499402
     },
     {
       "statusDate": "2022-02-16",
-      "vaccinationRate": 179.3981109544445,
-      "vaccinatedPersons": 9317,
-      "administeredVaccineDoses": 15508398
+      "vaccinationRate": 179.4020093044476,
+      "vaccinatedPersons": 9333,
+      "administeredVaccineDoses": 15508735
     },
     {
       "statusDate": "2022-02-17",
-      "vaccinationRate": 179.47728100613983,
-      "vaccinatedPersons": 6844,
-      "administeredVaccineDoses": 15515242
+      "vaccinationRate": 179.48183872098028,
+      "vaccinatedPersons": 6901,
+      "administeredVaccineDoses": 15515636
     },
     {
       "statusDate": "2022-02-18",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 179.57869594524172,
+      "vaccinatedPersons": 8373,
+      "administeredVaccineDoses": 15524009
     },
     {
       "statusDate": "2022-02-19",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 179.6487737028645,
+      "vaccinatedPersons": 6058,
+      "administeredVaccineDoses": 15530067
     },
     {
       "statusDate": "2022-02-20",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 179.6623311693442,
+      "vaccinatedPersons": 1172,
+      "administeredVaccineDoses": 15531239
     },
     {
       "statusDate": "2022-02-21",
