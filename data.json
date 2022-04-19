@@ -3,14 +3,14 @@
   "history": [
     {
       "statusDate": "2022-04-03",
-      "vaccinationRate": 180.96692498730144,
+      "vaccinationRate": 0,
       "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 15644017
+      "administeredVaccineDoses": 0
     },
     {
       "statusDate": "2022-04-04",
       "vaccinationRate": 180.98898478984134,
-      "vaccinatedPersons": 1907,
+      "vaccinatedPersons": 0,
       "administeredVaccineDoses": 15645924
     },
     {
