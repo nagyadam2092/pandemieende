@@ -1,12 +1,6 @@
 {
-  "lastUpdate": "2022-08-06",
+  "lastUpdate": "2022-08-07",
   "history": [
-    {
-      "statusDate": "2022-07-23",
-      "vaccinationRate": 183.4463681317175,
-      "vaccinatedPersons": 1374,
-      "administeredVaccineDoses": 15858357
-    },
     {
       "statusDate": "2022-07-24",
       "vaccinationRate": 183.44902872667512,
@@ -87,6 +81,12 @@
     },
     {
       "statusDate": "2022-08-06",
+      "vaccinationRate": 0,
+      "vaccinatedPersons": 0,
+      "administeredVaccineDoses": 0
+    },
+    {
+      "statusDate": "2022-08-07",
       "vaccinationRate": 0,
       "vaccinatedPersons": 0,
       "administeredVaccineDoses": 0
