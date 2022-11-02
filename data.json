@@ -3,87 +3,87 @@
   "history": [
     {
       "statusDate": "2022-10-18",
-      "vaccinationRate": 187.22523428562968,
-      "vaccinatedPersons": 22688,
-      "administeredVaccineDoses": 16185028
+      "vaccinationRate": 187.23013903459503,
+      "vaccinatedPersons": 22816,
+      "administeredVaccineDoses": 16185452
     },
     {
       "statusDate": "2022-10-19",
-      "vaccinationRate": 187.5087843012867,
-      "vaccinatedPersons": 24512,
-      "administeredVaccineDoses": 16209540
+      "vaccinationRate": 187.51593320425977,
+      "vaccinatedPersons": 24706,
+      "administeredVaccineDoses": 16210158
     },
     {
       "statusDate": "2022-10-20",
-      "vaccinationRate": 187.7492442464345,
-      "vaccinatedPersons": 20787,
-      "administeredVaccineDoses": 16230327
+      "vaccinationRate": 187.7600948467399,
+      "vaccinatedPersons": 21107,
+      "administeredVaccineDoses": 16231265
     },
     {
       "statusDate": "2022-10-21",
-      "vaccinationRate": 188.03297934695814,
-      "vaccinatedPersons": 24528,
-      "administeredVaccineDoses": 16254855
+      "vaccinationRate": 188.04610880468374,
+      "vaccinatedPersons": 24725,
+      "administeredVaccineDoses": 16255990
     },
     {
       "statusDate": "2022-10-22",
-      "vaccinationRate": 188.14519861514876,
-      "vaccinatedPersons": 9701,
-      "administeredVaccineDoses": 16264556
+      "vaccinationRate": 188.15914938697,
+      "vaccinatedPersons": 9772,
+      "administeredVaccineDoses": 16265762
     },
     {
       "statusDate": "2022-10-23",
-      "vaccinationRate": 188.14943243147263,
-      "vaccinatedPersons": 366,
-      "administeredVaccineDoses": 16264922
+      "vaccinationRate": 188.16341790670634,
+      "vaccinatedPersons": 369,
+      "administeredVaccineDoses": 16266131
     },
     {
       "statusDate": "2022-10-24",
-      "vaccinationRate": 188.38331029605132,
-      "vaccinatedPersons": 20218,
-      "administeredVaccineDoses": 16285140
+      "vaccinationRate": 188.40384314844164,
+      "vaccinatedPersons": 20784,
+      "administeredVaccineDoses": 16286915
     },
     {
       "statusDate": "2022-10-25",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 188.65931810339373,
+      "vaccinatedPersons": 22085,
+      "administeredVaccineDoses": 16309000
     },
     {
       "statusDate": "2022-10-26",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 188.94467269650025,
+      "vaccinatedPersons": 24668,
+      "administeredVaccineDoses": 16333668
     },
     {
       "statusDate": "2022-10-27",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 189.19065048423406,
+      "vaccinatedPersons": 21264,
+      "administeredVaccineDoses": 16354932
     },
     {
       "statusDate": "2022-10-28",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 189.47615545879472,
+      "vaccinatedPersons": 24681,
+      "administeredVaccineDoses": 16379613
     },
     {
       "statusDate": "2022-10-29",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 189.56677763661202,
+      "vaccinatedPersons": 7834,
+      "administeredVaccineDoses": 16387447
     },
     {
       "statusDate": "2022-10-30",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 189.56896395159893,
+      "vaccinatedPersons": 189,
+      "administeredVaccineDoses": 16387636
     },
     {
       "statusDate": "2022-10-31",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "vaccinationRate": 189.70486251491235,
+      "vaccinatedPersons": 11748,
+      "administeredVaccineDoses": 16399384
     },
     {
       "statusDate": "2022-11-01",
