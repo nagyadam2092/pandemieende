@@ -1,42 +1,6 @@
 {
-  "lastUpdate": "2023-03-21",
+  "lastUpdate": "2023-03-27",
   "history": [
-    {
-      "statusDate": "2023-03-07",
-      "vaccinationRate": 195.85458483555732,
-      "vaccinatedPersons": 251,
-      "administeredVaccineDoses": 16931008
-    },
-    {
-      "statusDate": "2023-03-08",
-      "vaccinationRate": 195.85895746553112,
-      "vaccinatedPersons": 378,
-      "administeredVaccineDoses": 16931386
-    },
-    {
-      "statusDate": "2023-03-09",
-      "vaccinationRate": 195.86142140781797,
-      "vaccinatedPersons": 213,
-      "administeredVaccineDoses": 16931599
-    },
-    {
-      "statusDate": "2023-03-10",
-      "vaccinationRate": 195.86665005529989,
-      "vaccinatedPersons": 452,
-      "administeredVaccineDoses": 16932051
-    },
-    {
-      "statusDate": "2023-03-11",
-      "vaccinationRate": 195.86774899669544,
-      "vaccinatedPersons": 95,
-      "administeredVaccineDoses": 16932146
-    },
-    {
-      "statusDate": "2023-03-12",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
-    },
     {
       "statusDate": "2023-03-13",
       "vaccinationRate": 195.8702707780031,
@@ -87,6 +51,42 @@
     },
     {
       "statusDate": "2023-03-21",
+      "vaccinationRate": 0,
+      "vaccinatedPersons": 0,
+      "administeredVaccineDoses": 0
+    },
+    {
+      "statusDate": "2023-03-22",
+      "vaccinationRate": 0,
+      "vaccinatedPersons": 0,
+      "administeredVaccineDoses": 0
+    },
+    {
+      "statusDate": "2023-03-23",
+      "vaccinationRate": 0,
+      "vaccinatedPersons": 0,
+      "administeredVaccineDoses": 0
+    },
+    {
+      "statusDate": "2023-03-24",
+      "vaccinationRate": 0,
+      "vaccinatedPersons": 0,
+      "administeredVaccineDoses": 0
+    },
+    {
+      "statusDate": "2023-03-25",
+      "vaccinationRate": 0,
+      "vaccinatedPersons": 0,
+      "administeredVaccineDoses": 0
+    },
+    {
+      "statusDate": "2023-03-26",
+      "vaccinationRate": 0,
+      "vaccinatedPersons": 0,
+      "administeredVaccineDoses": 0
+    },
+    {
+      "statusDate": "2023-03-27",
       "vaccinationRate": 0,
       "vaccinatedPersons": 0,
       "administeredVaccineDoses": 0
