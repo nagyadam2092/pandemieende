@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2023-04-10",
+  "lastUpdate": "2023-04-12",
   "history": [
-    {
-      "statusDate": "2023-03-27",
-      "vaccinationRate": 195.90437266467723,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 16935312
-    },
-    {
-      "statusDate": "2023-03-28",
-      "vaccinationRate": 195.90578393678518,
-      "vaccinatedPersons": 122,
-      "administeredVaccineDoses": 16935434
-    },
     {
       "statusDate": "2023-03-29",
       "vaccinationRate": 195.90861804880527,
@@ -90,6 +78,18 @@
       "vaccinationRate": 195.91870517403586,
       "vaccinatedPersons": 0,
       "administeredVaccineDoses": 16936551
+    },
+    {
+      "statusDate": "2023-04-11",
+      "vaccinationRate": 0,
+      "vaccinatedPersons": 0,
+      "administeredVaccineDoses": 0
+    },
+    {
+      "statusDate": "2023-04-12",
+      "vaccinationRate": 0,
+      "vaccinatedPersons": 0,
+      "administeredVaccineDoses": 0
     }
   ]
 }
