@@ -1,71 +1,41 @@
 {
-  "lastUpdate": "2023-06-14",
+  "lastUpdate": "2023-06-19",
   "history": [
     {
-      "statusDate": "2023-05-31",
-      "vaccinationRate": 195.9576424028504,
-      "vaccinatedPersons": 67,
-      "administeredVaccineDoses": 16939917
-    },
-    {
-      "statusDate": "2023-06-01",
-      "vaccinationRate": 195.95805884380027,
-      "vaccinatedPersons": 36,
-      "administeredVaccineDoses": 16939953
-    },
-    {
-      "statusDate": "2023-06-02",
-      "vaccinationRate": 195.95839431012104,
-      "vaccinatedPersons": 29,
-      "administeredVaccineDoses": 16939982
-    },
-    {
-      "statusDate": "2023-06-03",
-      "vaccinationRate": 195.95855625937932,
-      "vaccinatedPersons": 14,
-      "administeredVaccineDoses": 16939996
-    },
-    {
-      "statusDate": "2023-06-04",
-      "vaccinationRate": 0,
-      "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
-    },
-    {
       "statusDate": "2023-06-05",
-      "vaccinationRate": 195.9589148613084,
+      "vaccinationRate": 195.95898426813335,
       "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 16940027
+      "administeredVaccineDoses": 16940033
     },
     {
       "statusDate": "2023-06-06",
-      "vaccinationRate": 195.95921562421665,
+      "vaccinationRate": 195.95928503104162,
       "vaccinatedPersons": 26,
-      "administeredVaccineDoses": 16940053
+      "administeredVaccineDoses": 16940059
     },
     {
       "statusDate": "2023-06-07",
-      "vaccinationRate": 195.96009477733307,
+      "vaccinationRate": 195.96016418415806,
       "vaccinatedPersons": 76,
-      "administeredVaccineDoses": 16940129
+      "administeredVaccineDoses": 16940135
     },
     {
       "statusDate": "2023-06-08",
-      "vaccinationRate": 195.96038397243717,
+      "vaccinationRate": 195.96045337926213,
       "vaccinatedPersons": 25,
-      "administeredVaccineDoses": 16940154
+      "administeredVaccineDoses": 16940160
     },
     {
       "statusDate": "2023-06-09",
-      "vaccinationRate": 195.96070787095374,
+      "vaccinationRate": 195.96077727777873,
       "vaccinatedPersons": 28,
-      "administeredVaccineDoses": 16940182
+      "administeredVaccineDoses": 16940188
     },
     {
       "statusDate": "2023-06-10",
-      "vaccinationRate": 195.96080041338706,
+      "vaccinationRate": 195.96086982021203,
       "vaccinatedPersons": 8,
-      "administeredVaccineDoses": 16940190
+      "administeredVaccineDoses": 16940196
     },
     {
       "statusDate": "2023-06-11",
@@ -75,21 +45,51 @@
     },
     {
       "statusDate": "2023-06-12",
-      "vaccinationRate": 195.96103176947034,
+      "vaccinationRate": 195.9611011762953,
       "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 16940210
+      "administeredVaccineDoses": 16940216
     },
     {
       "statusDate": "2023-06-13",
+      "vaccinationRate": 195.96136723579107,
+      "vaccinatedPersons": 23,
+      "administeredVaccineDoses": 16940239
+    },
+    {
+      "statusDate": "2023-06-14",
+      "vaccinationRate": 195.96214227867,
+      "vaccinatedPersons": 67,
+      "administeredVaccineDoses": 16940306
+    },
+    {
+      "statusDate": "2023-06-15",
+      "vaccinationRate": 195.9625355840116,
+      "vaccinatedPersons": 34,
+      "administeredVaccineDoses": 16940340
+    },
+    {
+      "statusDate": "2023-06-16",
+      "vaccinationRate": 195.9628132113115,
+      "vaccinatedPersons": 24,
+      "administeredVaccineDoses": 16940364
+    },
+    {
+      "statusDate": "2023-06-17",
+      "vaccinationRate": 195.96290575374482,
+      "vaccinatedPersons": 8,
+      "administeredVaccineDoses": 16940372
+    },
+    {
+      "statusDate": "2023-06-18",
       "vaccinationRate": 0,
       "vaccinatedPersons": 0,
       "administeredVaccineDoses": 0
     },
     {
-      "statusDate": "2023-06-14",
-      "vaccinationRate": 0,
+      "statusDate": "2023-06-19",
+      "vaccinationRate": 195.9631024064156,
       "vaccinatedPersons": 0,
-      "administeredVaccineDoses": 0
+      "administeredVaccineDoses": 16940389
     }
   ]
 }
